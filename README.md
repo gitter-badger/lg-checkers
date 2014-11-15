@@ -1,5 +1,6 @@
 The Challenge: Lookingglass Checkers
 ====================================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/decomplecting/lg-checkers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The challenge is to implement the game logic for a provided checkerboard board state and UI:
 
